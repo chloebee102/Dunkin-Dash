@@ -1,0 +1,26 @@
+BoylstonSt											
+Sidewalk2											
+Sidewalk	CopyCenter										
+Sidewalk	Colo										
+Sidewalk	VisitorCenter										
+Sidewalk											
+Sidewalk	ColonialTheater										
+Sidewalk											
+Sidewalk											
+Sidewalk	BarnesandNoble	ECPD									
+Sidewalk											
+Sidewalk	WhiskeySaigon										
+Sidewalk											
+Sidewalk	Walker										
+Sidewalk				TextbookStore	Tufte2			Foodcourt	Doorway2		
+Sidewalk	DiningCenter	CenterStage	WalkerB		Tufte			Foodcourt			
+Alley	Alley2	Alley2	Alley2	Alley3	Alley2	Doorway	Foodcourt	Foodcourt	Dunkin	Dunkin2	Dunkin3
+Sidewalk			TwoB				Foodcourt	Foodcourt			
+Sidewalk								Foodcourt	SevenEleven		
+Sidewalk	Griddlers							Starbucks			
+Sidewalk		Lockers									
+Sidewalk	PianoRow	CampusCenter									
+Sidewalk											
+Sidewalk											
+Sidewalk											
+BostonCommon											
